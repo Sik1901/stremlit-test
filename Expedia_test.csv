@@ -1,0 +1,93 @@
+﻿Property,Category,Origin Region,Origin Country,Origin City,Destination Region,Destination Country,Destination City,Type,Period,Nights,Amount,Bookings,Visits,Commission,Cogs,Overhead
+Hotel,Luxury,South America,Brazil,Rio,Europe,France,Paris,Vacation,2015,875,217,875,1487.5,21.7,65.1,195.3
+Hotel,Luxury,South America,Brazil,Rio,Europe,France,Paris,Vacation,2016,155,39,54.25,81.375,3.9,15.6,31.2
+Hotel,Luxury,North America,USA ,San Francisco,Europe,France,Paris,Vacation,2016,411,123,123.3,197.28,24.6,12.3,36.9
+Hotel,Luxury,North America,Canada,Toronto,Europe,France,Paris,Vacation,2015,1816,701,635.6,1016.96,140.2,210.3,841.2
+Hotel,Luxury,North America,Canada,Toronto,Europe,France,Paris,Vacation,2016,1281,473,640.5,1024.8,94.6,47.3,94.6
+Hotel,Luxury,North America,Canada,Toronto,Europe,UK,London,Vacation,2015,635,251,338.6666667,541.8666667,0,75.3,225.9
+Hotel,Luxury,North America,Canada,Toronto,Europe,UK,London,Vacation,2016,1158,418,984.3,984.3,125.4,167.2,668.8
+Hotel,Luxury,Europe,Denmark,Copenhagen,Europe,France,Paris,Vacation,2016,231,76,184.8,332.64,22.8,30.4,121.6
+Hotel,Luxury,Oceania,Australia,Sidney,Europe,France,Paris,Vacation,2015,2304,580,1152,2304,174,116,232
+Hotel,Luxury,Oceania,Australia,Sidney,Europe,France,Paris,Vacation,2016,2971,797,1485.5,1931.15,239.1,79.7,159.4
+Hotel,Luxury,Asia,Thailand,Bangkok,Africa,Kenia,Malindi,Vacation,2015,218,76,109,218,15.2,7.6,15.2
+Hotel,Luxury,Asia,Thailand,Bangkok,Africa,Kenia,Malindi,Vacation,2016,645,226,419.25,586.95,0,90.4,361.6
+Rental,Luxury,South America,Brazil,Rio,Europe,France,Paris,Vacation,2015,2280,521,1938,2131.8,52.1,104.2,312.6
+Rental,Luxury,South America,Brazil,Rio,Europe,France,Paris,Vacation,2016,1126,265,619.3,990.88,26.5,53,106
+Rental,Luxury,South America,Brazil,Rio,Europe,UK,London,Vacation,2015,281,125,149.8666667,239.7866667,0,37.5,150
+Rental,Luxury,South America,Brazil,Rio,Europe,UK,London,Vacation,2016,955,304,477.5,668.5,0,30.4,60.8
+Rental,Luxury,North America,USA ,San Francisco,Europe,France,Paris,Vacation,2015,3524,1128,3347.8,3347.8,112.8,338.4,676.8
+Rental,Luxury,North America,USA ,San Francisco,Europe,France,Paris,Vacation,2016,4652,1471,2791.2,3349.44,441.3,294.2,588.4
+Rental,Luxury,North America,Canada,Toronto,Europe,France,Paris,Vacation,2015,13747,5027,13059.65,15671.58,1005.4,502.7,1508.1
+Rental,Luxury,North America,Canada,Toronto,Europe,France,Paris,Vacation,2016,8457,2329,3594.225,7188.45,232.9,698.7,1397.4
+Rental,Luxury,North America,Canada,Toronto,Europe,UK,London,Vacation,2015,19489,6930,5846.7,9354.72,693,2079,6237
+Rental,Luxury,North America,Canada,Toronto,Europe,UK,London,Vacation,2016,3559,1244,2016.766667,2621.796667,248.8,124.4,373.2
+Rental,Luxury,North America,USA ,New York City,Europe,France,Paris,Vacation,2016,109,37,72.66666667,87.2,3.7,3.7,14.8
+Rental,Luxury,Europe,Switzerland,Bern,Europe,France,Paris,Vacation,2015,94,25,61.1,67.21,2.5,10,20
+Rental,Luxury,Europe,Switzerland,Zurich,Europe,UK,London,Vacation,2015,276,72,234.6,375.36,7.2,14.4,57.6
+Rental,Luxury,Europe,France,Lyon,Europe,UK,London,Vacation,2015,2,1,0.866666667,1.3,0.1,0.1,0.2
+Rental,Luxury,Europe,France,Paris,Europe,France,Paris,Vacation,2015,245,87,67.375,87.5875,8.7,8.7,17.4
+Rental,Luxury,Europe,France,Paris,Europe,France,Paris,Vacation,2016,13,5,11.7,14.04,1,2,8
+Rental,Luxury,Europe,France,Paris,Europe,UK,London,Vacation,2015,3651,1296,3103.35,4655.025,0,388.8,1166.4
+Rental,Luxury,Europe,France,Paris,Europe,UK,London,Vacation,2016,1496,582,972.4,1069.64,0,174.6,523.8
+Rental,Luxury,Europe,Italy,Milan,Europe,France,Paris,Vacation,2015,790,289,750.5,1125.75,28.9,86.7,346.8
+Rental,Luxury,Europe,Italy,Milan,Europe,France,Paris,Vacation,2016,1,0,0.6,0.72,0,0,0
+Rental,Luxury,Europe,Italy,Milan,Europe,UK,London,Vacation,2016,47,18,15.275,18.33,0,5.4,10.8
+Rental,Luxury,Oceania,Australia,Sidney,Europe,France,Paris,Vacation,2015,614,209,347.9333333,452.3133333,41.8,83.6,334.4
+Rental,Luxury,Oceania,New Zealand,Wellington,Europe,France,Paris,Vacation,2016,905,258,678.75,1086,25.8,77.4,154.8
+Rental,Luxury,Oceania,New Zealand,Wellington,Europe,France,Paris,Vacation,2015,22257,6605,10015.65,13020.345,1981.5,1321,5284
+Rental,Luxury,Oceania,New Zealand,Wellington,Europe,France,Paris,Vacation,2016,124755,37924,83170,158023,0,3792.4,7584.8
+Rental,Luxury,Asia,Thailand,Bangkok,Africa,Kenia,Malindi,Vacation,2015,6274,2407,1882.2,3199.74,722.1,240.7,722.1
+Rental,Luxury,Asia,Thailand,Bangkok,Africa,Kenia,Malindi,Vacation,2016,10487,4005,3408.275,5453.24,0,1602,4806
+Rental,Luxury,Asia,Thailand,Bangkok,Africa,RSA,Cape Town,Vacation,2015,7073,2814,6012.05,12024.1,0,1125.6,2251.2
+Rental,Luxury,Asia,Thailand,Bangkok,Africa,RSA,Cape Town,Vacation,2016,15586,6181,6624.05,8611.265,1236.2,1236.2,3708.6
+Rental,Luxury,Asia,South Korea,Taipei,Europe,UK,London,Vacation,2015,13549,5477,5871.233333,11155.34333,1643.1,547.7,2190.8
+Rental,Luxury,Asia,South Korea,Taipei,Europe,UK,London,Vacation,2016,10230,4013,10230,19437,401.3,1203.9,4815.6
+Rental,Luxury,Asia,South Korea,Taipei,Europe,UK,London,Vacation,2015,36,19,13.2,18.48,0,7.6,22.8
+Rental,Luxury,Asia,South Korea,Taipei,Europe,UK,London,Vacation,2016,15,8,10,16,2.4,0.8,1.6
+Rental,Luxury,Asia,China,Beijing,Europe,France,Paris,Vacation,2015,8102,2948,3240.8,3564.88,884.4,589.6,1179.2
+Rental,Luxury,Asia,China,Beijing,Europe,France,Paris,Vacation,2016,836,361,271.7,543.4,36.1,144.4,288.8
+Rental,Luxury,Asia,China,Shanghai,Europe,UK,London,Vacation,2015,8719,3249,3923.55,3923.55,0,974.7,3898.8
+Rental,Luxury,Asia,China,Shanghai,Europe,UK,London,Vacation,2016,5712,2264,2570.4,4626.72,679.2,679.2,1358.4
+Rental,Luxury,Asia,Japan,Tokio,Europe,France,Paris,Vacation,2016,1464,710,549,713.7,142,213,852
+Rental,Luxury,Asia,Japan,Tokio,Europe,UK,London,Vacation,2015,1921,896,704.3666667,1197.423333,179.2,358.4,716.8
+Rental,Luxury,Asia,Japan,Tokio,Europe,UK,London,Vacation,2016,1614,811,1371.9,2469.42,81.1,162.2,324.4
+Rental,Art,South America,Brazil,Brazilia,Asia,China,Beijing,Vacation,2015,388,180,129.3333333,142.2666667,54,54,216
+Rental,Art,South America,Brazil,Brazilia,Asia,China,Beijing,Vacation,2016,1007,477,755.25,981.825,0,143.1,572.4
+Rental,Art,South America,Brazil,Brazilia,Asia,Japan,Tokio,Vacation,2015,2889,1386,1372.275,2058.4125,0,415.8,831.6
+Rental,Art,South America,Brazil,Brazilia,Asia,Japan,Tokio,Vacation,2016,628,297,272.1333333,517.0533333,59.4,59.4,178.2
+Rental,Art,South America,Brazil,Brazilia,Europe,France,Ajaccio,Vacation,2015,1183,516,473.2,804.44,51.6,206.4,825.6
+Rental,Art,South America,Brazil,Brazilia,Europe,France,Ajaccio,Vacation,2016,2211,1023,737,737,102.3,306.9,920.7
+Rental,Art,South America,Argentina,Buenos Aires,Europe,UK,Manchester,Vacation,2015,2200,1014,1540,2002,101.4,405.6,1216.8
+Rental,Art,South America,Argentina,Buenos Aires,Europe,UK,Manchester,Vacation,2016,2352,1070,1999.2,3198.72,321,428,1284
+Rental,Art,Africa,RSA,Cape Town,Asia,China,Beijing,Vacation,2015,973,386,535.15,695.695,115.8,38.6,77.2
+Rental,Art,Africa,RSA,Cape Town,Asia,China,Beijing,Vacation,2016,2060,782,772.5,1004.25,0,234.6,703.8
+Hotel,Family run,North America,Canada,Montreal,Europe,France,Nice,Vacation,2015,205,92,109.3333333,109.3333333,27.6,27.6,110.4
+Hotel,Family run,North America,Canada,Montreal,Europe,UK,Manchester,Vacation,2015,109,49,54.5,54.5,14.7,4.9,14.7
+Hotel,Family run,North America,Canada,Montreal,Europe,UK,Manchester,Vacation,2016,1266,570,1076.1,1076.1,57,114,456
+Rental,Family run,North America,Canada,Montreal,Europe,France,Nice,Vacation,2015,1964,780,1276.6,1659.58,156,156,468
+Rental,Family run,North America,Canada,Montreal,Europe,France,Nice,Vacation,2016,3123,1376,1249.2,2498.4,412.8,412.8,825.6
+Rental,Family run,North America,Canada,Montreal,Europe,UK,Manchester,Vacation,2015,6454,2832,3872.4,7744.8,566.4,566.4,1699.2
+Rental,Family run,North America,Canada,Montreal,Europe,UK,Manchester,Vacation,2016,1948,852,1298.666667,2337.6,255.6,85.2,340.8
+Rental,Family run,Europe,Austria,Wien,Europe,France,Nice,Vacation,2015,1,0,0.5,0.75,0,0,0
+Rental,Family run,Asia,South Korea,Taipei,Europe,France,Nice,Vacation,2015,535,248,267.5,428,24.8,24.8,74.4
+Rental,Family run,Asia,South Korea,Taipei,Europe,France,Nice,Vacation,2016,264,130,264,422.4,39,52,208
+Rental,Family run,Asia,South Korea,Taipei,Europe,UK,Manchester,Vacation,2015,1023,472,511.5,511.5,94.4,141.6,424.8
+Rental,Family run,Asia,South Korea,Taipei,Europe,UK,Manchester,Vacation,2016,382,198,286.5,286.5,59.4,79.2,158.4
+Hotel,Casual,South America,Argentina,Buenos Aires,Europe,France,Bordeaux,Business,2015,23675,2439,8878.125,12429.375,731.7,731.7,1463.4
+Hotel,Casual,South America,Argentina,Buenos Aires,Europe,France,Bordeaux,Business,2016,114375,11477,40031.25,44034.375,1147.7,1147.7,2295.4
+Hotel,Casual,South America,Argentina,Buenos Aires,Asia,China,Shanghai,Business,2015,109,11,103.55,144.97,2.2,3.3,6.6
+Hotel,Casual,South America,Argentina,Buenos Aires,Asia,China,Shanghai,Business,2016,606,47,404,444.4,0,14.1,42.3
+Hotel,Casual,North America,Mexico,Mexico City,Europe,UK,Manchester,Business,2015,92,60,69,138,0,18,36
+Hotel,Casual,Europe,Spain,Barcellona,Europe,France,Bordeaux,Business,2015,899,64,337.125,640.5375,19.2,25.6,76.8
+Hotel,Casual,Europe,Spain,Barcellona,Europe,France,Bordeaux,Business,2016,6847,532,4450.55,7120.88,159.6,159.6,478.8
+Hotel,Casual,Europe,UK,London,Asia,China,Shanghai,Business,2015,89503,5905,44751.5,76077.55,590.5,1771.5,3543
+Hotel,Casual,Europe,UK,London,Asia,China,Shanghai,Business,2016,104035,7143,52017.5,98833.25,1428.6,2857.2,11428.8
+Rental,Casual,South America,Argentina,Mendoza,Europe,France,Bordeaux,Business,2015,6969,699,3949.1,3949.1,69.9,139.8,279.6
+Rental,Casual,South America,Argentina,Mendoza,Europe,France,Bordeaux,Business,2016,55446,5676,35115.8,38627.38,1135.2,567.6,2270.4
+Rental,Casual,South America,Argentina,Mendoza,Asia,China,Shanghai,Business,2016,64,6,20.8,31.2,1.2,2.4,4.8
+Rental,Casual,North America,Mexico,Mexico City,Europe,UK,Manchester,Business,2015,6758,5145,4392.7,5271.24,1029,1543.5,6174
+Rental,Casual,North America,Mexico,Mexico City,Europe,UK,Manchester,Business,2016,1959,1611,685.65,1234.17,161.1,161.1,644.4
+Rental,Casual,Europe,Spain,Barcellona,Europe,France,Bordeaux,Business,2015,972,72,648,972,0,14.4,57.6
+Rental,Casual,Europe,Spain,Barcellona,Europe,France,Bordeaux,Business,2016,2382,182,893.25,1071.9,36.4,36.4,72.8
+Rental,Casual,Europe,UK,London,Asia,China,Shanghai,Business,2015,30800,1986,14630,27797,0,397.2,1588.8
+Rental,Casual,Europe,UK,London,Asia,China,Shanghai,Business,2016,27166,1740,16299.6,16299.6,348,348,1044

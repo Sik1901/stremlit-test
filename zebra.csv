@@ -1,0 +1,31 @@
+﻿Product group,Product,Country,Period,Revenue,Quantity,Price
+Baby Food,Product 01,US,PL,80458,9670.4,8.3
+Baby Food,Product 02,US,PL,50345,31000,1.6
+Cereals,Product 03,UK,PL,0,0,0
+Cereals,Product 04,UK,PL,32052,4836.1,6.6
+Dairy Products,Product 05,Germany,PL,116809,43262.6,2.7
+Dairy Products,Product 06,Italy,PL,8130,1890,4.3
+Dairy Products,Product 07,Italy,PL,22018,1468,15
+Frozen Food,Product 08,Spain,PL,62270,6918.9,9
+Frozen Food,Product 09,Spain,PL,113370,35428.1,3.2
+Pizza,Product 10,France,PL,74930,3765.3,19.9
+Pizza,Product 11,France,PL,54350,4685.3,11.6
+Pizza,Product 12,Canada,PL,0,0,0
+Meat,Product 13,China,PL,12388,2064.7,6
+Meat,Product 14,Japan,PL,147635.2,19425.7,7.6
+Meat,Product 15,Netherlands,PL,24956,16865,1.5
+Baby Food,Product 01,US,AC,100598,11190,9
+Baby Food,Product 02,US,AC,108606,50514.4,2.2
+Cereals,Product 03,UK,AC,43145,4677,9.2
+Cereals,Product 04,UK,AC,43123,9587.8,4.5
+Dairy Products,Product 05,Germany,AC,108841,35539.3,3.1
+Dairy Products,Product 06,Italy,AC,0,0,0
+Dairy Products,Product 07,Italy,AC,0,0,0
+Frozen Food,Product 08,Spain,AC,68330,6937.1,9.8
+Frozen Food,Product 09,Spain,AC,122306,43680.7,2.8
+Pizza,Product 10,France,AC,69865,4038.4,17.3
+Pizza,Product 11,France,AC,41262,3785.5,10.9
+Pizza,Product 12,Canada,AC,39721,3337,11.9
+Meat,Product 13,China,AC,13286,1898,7
+Meat,Product 14,Japan,AC,129638,15563.2,8.3
+Meat,Product 15,Netherlands,AC,0,0,0
